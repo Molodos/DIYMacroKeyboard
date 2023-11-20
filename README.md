@@ -4,7 +4,7 @@ A DIY macro keyboard project. This repository contains the Arduino source code a
 
 ## Instructions
 
-- Printables: Coming soon
+- Printables: https://www.printables.com/model/653686
 - YouTube (1/2): Coming soon
 - YouTube (2/2): Coming soon
 
