@@ -12,7 +12,7 @@ A DIY macro keyboard project. This repository contains the Arduino source code a
 
 - 3 Cherry MX Keys: https://amzn.to/3QNLtqB
 - Arduino Pro Micro: https://amzn.to/3SNcPQa
-- A piece of a 60 LEDs/m Neopixyel strip: https://amzn.to/3G846AA
+- A piece of a 60 LEDs/m WS2812B strip: https://amzn.to/3G846AA
 - 2 M2x8 screws: https://amzn.to/3R4Z5PE
 
 ## Images
