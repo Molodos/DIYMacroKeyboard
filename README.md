@@ -10,10 +10,10 @@ A DIY macro keyboard project. This repository contains the Arduino source code a
 
 ## Electronics, you will need (affiliate links)
 
-- 3 Cherry MX Keys: 
-- Arduino Pro Micro: 
-- A piece of a 60 LEDs/m Neopixyel strip: 
-- 2 M2x8 screws: 
+- 3 Cherry MX Keys: https://amzn.to/3QNLtqB
+- Arduino Pro Micro: https://amzn.to/3SNcPQa
+- A piece of a 60 LEDs/m Neopixyel strip: https://amzn.to/3G846AA
+- 2 M2x8 screws: https://amzn.to/3R4Z5PE
 
 ## Images
 
